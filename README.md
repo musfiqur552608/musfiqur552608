@@ -17,7 +17,7 @@
 <a href="https://github.com/musfiqur552608/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=musfiqur552608&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musfiqur552608&show_icons=true&count_private=true)  
 
 
