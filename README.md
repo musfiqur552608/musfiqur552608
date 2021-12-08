@@ -23,6 +23,6 @@
   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfiqur552608)
-![GitHub metrics](https://metrics.lecoq.io/musfiqur552608)
+![GitHub metrics](https://metrics.lecoq.io/?user=musfiqur552608)
 
 ![Profile views](https://gpvc.arturio.dev/musfiqur552608)
