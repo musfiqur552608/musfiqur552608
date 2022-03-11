@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently studying on Daffodil International University
-- 🌱 I’m currently learning Android App Development(Java & Kotlin) & Flutter
-- 💬 Ask me about Android development and Flutter
+- 🔭 I’m currently working on Data Transformers Inc(Remote)
+- 🌱 I’m currently working on NLP, Django, Android App Development(Java & Kotlin) & Flutter
 - ⚡ Fun fact: I love to play cricket and football
 
 ### Connect with me:
