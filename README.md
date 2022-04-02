@@ -24,7 +24,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfiqur552608)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqur55260)](https://github.com/musfiqur552608/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqur552608)](https://github.com/musfiqur552608)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musfiqur55260&show_icons=true&count_private=true)  
 
