@@ -1,4 +1,4 @@
-![Django ||Flutter || Android || Python](https://miro.medium.com/max/1400/1*YOVHPHgA64ET719WTw0pvw.gif) ![Django ||Flutter || Android || Python](https://miro.medium.com/max/1200/1*nSVke1bscf1XSN5GtFwZ4Q.png)
+![Django ||Flutter || Android || Python](https://miro.medium.com/max/1400/1*YOVHPHgA64ET719WTw0pvw.gif) ![Django ||Flutter || Android || Python](https://inoxoft.com/app/uploads/2018/09/10-ADVANTAGES-OF-USING-DJANGO-FOR-WEB-DEVELOPMENT@3x-100.jpg)
 ### Hello, I am Musfiqur Rahman! 👋
 #### Django ||Flutter || Android || Python
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
