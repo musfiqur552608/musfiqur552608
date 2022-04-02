@@ -23,7 +23,17 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfiqur552608)
 
+///
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqur55260)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=musfiqur55260&show_icons=true&count_private=true)  
+
+   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfiqur55260)
+![GitHub metrics](https://metrics.lecoq.io/musfiqur55260)
+
+![Profile views](https://gpvc.arturio.dev/musfiqur55260)
 
 
 
