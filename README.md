@@ -13,9 +13,6 @@
 <br><br><br>
 
 <a href="https://github.com/musfiqur552608/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/musfiqur552608/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=musfiqur552608&column=8&theme=gruvbox&no-frame=true"/>
-</a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=musfiqur552608)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqur552608)](https://github.com/musfiqur552608)
