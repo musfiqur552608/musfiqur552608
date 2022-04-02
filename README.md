@@ -1,4 +1,4 @@
-![Django ||Flutter || Android || Python](https://miro.medium.com/max/1400/1*YOVHPHgA64ET719WTw0pvw.gif)
+![Django ||Flutter || Android || Python](https://miro.medium.com/max/1400/1*YOVHPHgA64ET719WTw0pvw.gif)(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fflutter-community%2Fdjango-search-flutter-1cb3e8a5db1a&psig=AOvVaw1beVn71fTgr6_gObTLUHMu&ust=1648952940254000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiH-Ouq9PYCFQAAAAAdAAAAABAJ)
 ### Hello, I am Musfiqur Rahman! 👋
 #### Django ||Flutter || Android || Python
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
