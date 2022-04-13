@@ -1,5 +1,5 @@
 ![Django ||Flutter || Android || Python](https://miro.medium.com/max/1400/1*YOVHPHgA64ET719WTw0pvw.gif)
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="1050">
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="1050" height="500">
 ### Hello, I am Musfiqur Rahman! 👋
 #### Django ||Flutter || Android || Python
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
