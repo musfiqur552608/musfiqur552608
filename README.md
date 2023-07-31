@@ -1,13 +1,13 @@
 ![Django ||React || Android || Python](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
 <img src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/08/react.gif?ssl=1" width="1050" height="500">
 ### Hello, I am Musfiqur Rahman! 👋
-#### Django ||Flutter || Android || Python
+#### Django ||React ||Node || Android || Python
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
 My passion is programming and the field of machine learning. So, I want to be a Full-stack web developer.
 I participated in many programming contests on online and offline platforms.
 
 
-- 🔭 I’m currently working on Data Transformers Inc(Remote)
+- 🔭 I’m currently working on Daffodil International Professional Training Institute
 - 🌱 I’m currently working on NLP, Django, Android App Development(Java & Kotlin) & Flutter
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Backend Development
