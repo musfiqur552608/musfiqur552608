@@ -1,5 +1,5 @@
 ![Django ||React || Android || Python](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif" width="1050" height="500">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif" width="1050" height="500">
 ### Hello, I am Musfiqur Rahman! 👋
 #### Django ||Flutter || Android || Python
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
