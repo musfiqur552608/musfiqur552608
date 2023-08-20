@@ -21,7 +21,7 @@ I participated in many programming contests on online and offline platforms.
 [<img align="left" alt="Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" />](https://twitter.com/saye_musfiqur)
 [<img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/mushfiqur-rahman-7a9054185/)
 [<img align="left" alt="ResearchGate" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-researchgate-3629614-3031082.png">](https://www.researchgate.net/profile/Musfiqur-Rahman-12)
-[<img align="left" alt="youtube" width="40px" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png">](https://www.youtube.com/@freedu2023)
+[<img align="left" alt="youtube" width="40px" height="60" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png">](https://www.youtube.com/@freedu2023)
 <br><br><br>
 
 <a href="https://github.com/musfiqur552608/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
