@@ -20,7 +20,7 @@ I participated in many programming contests on online and offline platforms.
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/saye_musfiqur)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/mushfiqur-rahman-7a9054185/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg">](https://www.researchgate.net/profile/Musfiqur-Rahman-12)
+[<img align="left" alt="ResearchGate" width="22px" src="https://static.startuptalky.com/2020/11/Feature-image_template-5-.png">](https://www.researchgate.net/profile/Musfiqur-Rahman-12)
 [<img align="left" alt="youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052">](https://www.youtube.com/@freedu2023)
 <br><br><br>
 
