@@ -7,7 +7,7 @@ My passion is programming and the field of machine learning. So, I want to be a 
 I participated in many programming contests on online and offline platforms.
 
 
-- 🔭 I’m currently working on Daffodil International Professional Training Institute
+- 🔭 I’m currently working on Daffodil International Professional Training Institute And FreEdu
 - 🌱 I’m currently working on NLP, Django, Spring Boot, MERN Stack, Android App Development(Java & Kotlin)
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Backend Development
