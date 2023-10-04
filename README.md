@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/mushfiqurrahman"><img src="https://api.daily.dev/devcards/aef624ebe11d458fabe67abd2838217b.png?r=3fg" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
 ![Django ||React || Android || Python](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
 <img src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/08/react.gif?ssl=1" width="1050" height="500">
 ### Hello, I am Musfiqur Rahman! 👋
