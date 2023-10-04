@@ -1,6 +1,6 @@
-<a href="https://app.daily.dev/mushfiqurrahman"><img src="https://api.daily.dev/devcards/aef624ebe11d458fabe67abd2838217b.png?r=3fg" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
 ![Django ||React || Android || Python](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
 <img src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/08/react.gif?ssl=1" width="1050" height="500">
+<a href="https://app.daily.dev/mushfiqurrahman"><img src="https://api.daily.dev/devcards/aef624ebe11d458fabe67abd2838217b.png?r=l2j" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
 ### Hello, I am Musfiqur Rahman! 👋
 #### Android || Kotlin || Java || Spring Boot || RACT || Node || Django || Python || MySQL || MongoDB || Firebase || Machine Learning
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
