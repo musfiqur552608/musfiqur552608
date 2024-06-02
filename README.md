@@ -40,7 +40,12 @@ I participated in many programming contests on online and offline platforms.
 
 <div align="center">
 
-![Md Al Amin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alamin54017&custom_title=Md%20Al%20Amin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alamin54017&theme=radical" alt="Musfiqur Rahman's GitHub Contribution" />
+</div>
+<hr/>
+
+![Musfiqur Rahman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alamin54017&custom_title=Md%20Al%20Amin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
 
