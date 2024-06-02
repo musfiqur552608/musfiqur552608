@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/mushfiqurrahman"><img src="https://api.daily.dev/devcards/aef624ebe11d458fabe67abd2838217b.png?r=l2j" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
-<a href="https://musfiqurrahmansayed.netlify.app"><img src="https://drive.google.com/file/d/12XNL05Ei_L1L6ASyXL6RFifGS8QeiTq7/view?usp=sharing" alt="Musfiqur Rahman"/></a>
+<a href="https://musfiqurrahmansayed.netlify.app"><img src="https://drive.google.com/file/d/12XNL05Ei_L1L6ASyXL6RFifGS8QeiTq7/view?usp=sharing" width="1000 alt="Musfiqur Rahman"/></a>
 #### Android || Kotlin || Java || Spring Boot || RACT || Node || Django || Python || MySQL || MongoDB || Firebase || Machine Learning
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
 My passion is programming and the field of machine learning. So, I want to be a Full-stack developer.
