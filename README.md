@@ -49,7 +49,7 @@ I participated in many programming contests on online and offline platforms.
 
 </div>
 
-![Profile views](https://gpvc.arturio.dev/musfiqur552608)
+![Visitor Count](https://profile-counter.glitch.me/musfiqur552608/count.svg)
 ![Musfiqur Rahman](https://rushter.com/counter.svg)
 
 
