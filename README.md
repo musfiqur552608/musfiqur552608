@@ -1,11 +1,13 @@
-![Django ||React || Android || Python](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
-<img src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/08/react.gif?ssl=1" width="1050" height="500">
 <a href="https://app.daily.dev/mushfiqurrahman"><img src="https://api.daily.dev/devcards/aef624ebe11d458fabe67abd2838217b.png?r=l2j" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
 ### Hello, I am Musfiqur Rahman! 👋
 #### Android || Kotlin || Java || Spring Boot || RACT || Node || Django || Python || MySQL || MongoDB || Firebase || Machine Learning
 I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
 My passion is programming and the field of machine learning. So, I want to be a Full-stack developer.
 I participated in many programming contests on online and offline platforms.
+
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7278D&center=true&random=false&width=500&lines=5%2B+Years+Experience+in+Java;Professional+Android+Developer;Spring+Boot+REST+API+Developer;Specialized+in+Microservice+Architecture" alt="Typing SVG" /></a>
+</div>
 
 
 - 🔭 I’m currently working on Daffodil International Professional Training Institute And FreEdu
