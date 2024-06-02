@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-    <a href="https://app.daily.dev/mushfiqurrahman"><img src="sayed.png" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
+    <a href="https://app.daily.dev/mushfiqurrahman"><img src="sayed-bg.png" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
   </div>
 </header>
 
