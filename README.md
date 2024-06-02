@@ -6,7 +6,7 @@ My passion is programming and the field of machine learning. So, I want to be a 
 I participated in many programming contests on online and offline platforms.
 
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7278D&center=true&random=false&width=500&lines=5%2B+Years+Experience+in+Kotlin+&+Java;Professional+Android+Developer;Jetpack +Compose;KMM;Spring+Boot+REST+API+Developer;Specialized+in+Microservice+Architecture" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=6%2B+Years+Experience+in+Java+%26+Kotlin;Professional+Android+Developer;Spring+Boot;Rest+Api+Developer;Specialized+in+Microservice+Architecture;Data+Science+and+Machine+Learning+Developer" alt="Typing SVG" /></a>
 </div>
 
 
