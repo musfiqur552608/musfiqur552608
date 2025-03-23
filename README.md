@@ -5,8 +5,8 @@
 </header>
 
 <a href="https://musfiqurrahmansayed.netlify.app"><img src="musfiq.gif" width="1000" height="400" alt="Musfiqur Rahman"/></a>
-#### Android || Kotlin || Java || Spring Boot || RACT || Node || Django || Python || MySQL || MongoDB || Firebase || Machine Learning
-I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing.
+#### Android || Kotlin || Java || Excel || SQL || Power BI || Django || Python || Data Analytics || Machine Learning || Artificial Intelligence || Flutter
+I'm really energetic, & a great communicator I am punctual, dependable, and can be counted upon to finish what I start. I have some skills on Python development, Django, Flutter, Frontend, Artificial Intelligence, Machine learning, Neural networks, Natural Language processing, Computer vision, Image processing, Data Analytics.
 My passion is programming and the field of machine learning. So, I want to be a Full-stack developer.
 I participated in many programming contests on online and offline platforms.
 
@@ -16,9 +16,9 @@ I participated in many programming contests on online and offline platforms.
 
 
 - 🔭 I’m currently working on Daffodil International Professional Training Institute And FreEdu
-- 🌱 I’m currently working on NLP, Django, Spring Boot, MERN Stack, Android App Development(Java & Kotlin)
+- 🌱 I’m currently working on NLP, Django, Spring Boot, Data Analytics, Android App Development(Java & Kotlin), Flutter
 - 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Backend Development
+- 🤔 I’m looking for help with Backend Development and Data Analytics
 - 💬 Ask me about Web Development and App development
 - 📫 How to reach me: Email: musfiqurrahmansayed@gmail.com
 - 😄 Pronouns: Musfiqur
